@@ -1,4 +1,3 @@
-<?php
 <h1>Modifier la tâche</h1>
 
 <form action="index.php?action=update" method="POST">

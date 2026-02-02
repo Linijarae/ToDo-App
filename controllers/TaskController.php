@@ -31,4 +31,7 @@ class TaskController {
         $this->model->deleteTask($id);
         header('Location: index.php');
     }
+    public function getTask($id) {
+    return $this->model->getTaskById($id);
+    }
 }
