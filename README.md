@@ -3,13 +3,13 @@
 Ce projet est une application de gestion de tâches (Todo List) réalisée en PHP, sans framework. Il a pour but de mettre en pratique les concepts d'architecture logicielle et de sécurité backend.
 
 ## Fonctionnalités
-- **Afficher** la liste des tâches.
-    <img src="img/view.png" alt="la todo app" width="500">
+- **Afficher** la liste des tâches.  
+    <img src="img/view.png" alt="la todo app" width="400">
 - **Ajouter** une tâche via un formulaire sécurisé.
 - **Supprimer** une tâche de la base de données.
-    <img src="img/delete.png" alt="Mon interface" width="500">
+    <img src="img/delete.png" alt="Mon interface" width="400">
 - **Modifier** une tâche de la base de données.
-    <img src="img/modify.png" alt="Mon interface" width="500">
+    <img src="img/modify.png" alt="Mon interface" width="400">
 - **Sécurité** : Protection contre les injections SQL (requêtes préparées) et les failles XSS (échappement des données).
 
 ## Concepts
