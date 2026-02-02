@@ -4,9 +4,12 @@ Ce projet est une application de gestion de tâches (Todo List) réalisée en PH
 
 ## Fonctionnalités
 - **Afficher** la liste des tâches.
+    <img src="img/view.png" alt="la todo app" width="500">
 - **Ajouter** une tâche via un formulaire sécurisé.
 - **Supprimer** une tâche de la base de données.
+    <img src="img/delete.png" alt="Mon interface" width="500">
 - **Modifier** une tâche de la base de données.
+    <img src="img/modify.png" alt="Mon interface" width="500">
 - **Sécurité** : Protection contre les injections SQL (requêtes préparées) et les failles XSS (échappement des données).
 
 ## Concepts
